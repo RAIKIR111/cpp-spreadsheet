@@ -10,7 +10,7 @@
 * [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
 * [ANTLR](https://www.antlr.org/)
 
-## Порядок сборки
+## Инструкция по развертыванию
 1. Установить [Java SE Runtime Environment 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).
 2. Установить [ANTLR](https://www.antlr.org/), выполнив все пункты в меню Quick Start.
 3. В файлах FindANTLR.cmake и CMakeLists.txt указать корректное название файла antlr-X.X.X-complete.jar (вместро X.X.X необходимо указать соответствующую версию).
